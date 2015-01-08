@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="135dp"
+        android:layout_height="135dp"
+        android:id="@+id/pofilePic"
+        android:layout_gravity="center_horizontal"
+        android:focusableInTouchMode="false"
+        android:src="@drawable/default_pic"
+        android:layout_row="1"
+        android:layout_column="2"
+        android:clickable="true" />
+
+    <GridLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_row="0"
+            android:layout_column="12">
+
+            <GridLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <EditText
+                    android:layout_width="107dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/fullNameText"
+                    android:layout_row="0"
+                    android:layout_column="2"
+                    android:text="Name" />
+
+                <EditText
+                    android:layout_width="133dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/locationText"
+                    android:layout_row="0"
+                    android:layout_column="13"
+                    android:text="Location"
+                    android:layout_gravity="center_horizontal" />
+
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/personAge"
+                    android:layout_row="0"
+                    android:layout_column="17"
+                    android:text="99"
+                    android:hint="99" />
+
+                <EditText
+                    android:layout_width="168dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/aboutMeLabel"
+                    android:layout_row="1"
+                    android:layout_column="13"
+                    android:text="About Me"
+                    android:layout_columnSpan="4" />
+
+                <EditText
+                    android:layout_width="204dp"
+                    android:layout_height="81dp"
+                    android:id="@+id/aboutMeText"
+                    android:layout_row="2"
+                    android:layout_column="13"
+                    android:hint="Say something awesome about yourself!" />
+
+                <ListView
+                    android:layout_width="190dp"
+                    android:layout_height="151dp"
+                    android:id="@+id/activityList"
+                    android:layout_row="14"
+                    android:layout_column="13"
+                    android:layout_columnSpan="2" />
+
+                <Button
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="81dp"
+                    android:layout_height="32dp"
+                    android:text="Save"
+                    android:id="@+id/saveProfileButton"
+                    android:layout_row="15"
+                    android:layout_column="2"
+                    android:visibility="visible" />
+
+                <Button
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="94dp"
+                    android:layout_height="34dp"
+                    android:text="Edit"
+                    android:id="@+id/editProfileButton"
+                    android:layout_row="15"
+                    android:layout_column="17"
+                    android:longClickable="false" />
+
+
+            </GridLayout>
+        </LinearLayout>
+    </GridLayout>
+</LinearLayout><!-- From: file:/C:/Users/Owner/AndroidStudioProjects/AmIFit/app/src/main/res/layout/profile_page.xml -->

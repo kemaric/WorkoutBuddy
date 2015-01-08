@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-abde741c0baafd7984b79f766350b640dd8db702.jar"
+        jar="C:\Users\Owner\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\pre-dexed\debug\classes-52cd83eabea89f99f14a43fbe3bd196ca339aa30.jar"
+        jar="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-b343e0fb0d266fee080e2a993552f85877c40dd7.jar"
+        jar="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\pre-dexed\debug\classes-9e0d731627bb44b875f7ef190b2ea991a949e8e7.jar"
+        jar="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\pre-dexed\debug\classes-1070484a7a200e26ef6056c619f1a01aecb6af8e.jar"
+        jar="C:\Users\Owner\AndroidStudioProjects\AmIFit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.2.08\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
+
+</pre-dex-items>
