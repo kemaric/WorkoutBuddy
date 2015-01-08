@@ -49,7 +49,6 @@ public class ProfileTab extends Fragment {
                 ageText.setKeyListener((KeyListener)ageText.getTag());
                 ageText.setInputType(InputType.TYPE_CLASS_NUMBER);
                 aboutMeText.setKeyListener((KeyListener)aboutMeText.getTag());
-
             }
         });
 
