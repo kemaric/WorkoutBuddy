@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitNiche</string>
+    <string name="title_section1">My Profile</string>
+    <string name="title_section2">My Buddies</string>
+    <string name="title_section3">Search</string>
+    <string name="name">Name</string>
+</resources>
