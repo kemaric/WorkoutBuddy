@@ -11,4 +11,4 @@
         android:id="@+id/buddyList"
         android:clickable="true"
         tools:listitem="@android:layout/simple_selectable_list_item" />
-</LinearLayout><!-- From: file:/C:/Users/Owner/AndroidStudioProjects/AmIFit/app/src/main/res/layout/matches_page.xml -->
+</LinearLayout><!-- From: file:/C:/Users/Owner/Documents/GitHub/WorkoutBuddy/app/src/main/res/layout/matches_page.xml -->
