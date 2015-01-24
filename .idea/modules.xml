@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FitNiche.iml" filepath="$PROJECT_DIR$/FitNiche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkoutBuddy.iml" filepath="$PROJECT_DIR$/WorkoutBuddy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fitNiche.iml" filepath="$PROJECT_DIR$/fitNiche.iml" />
     </modules>
   </component>
 </project>

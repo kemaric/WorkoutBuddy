@@ -11,4 +11,5 @@
         android:id="@+id/buddyList"
         android:clickable="true"
         tools:listitem="@android:layout/simple_selectable_list_item" />
+
 </LinearLayout>
