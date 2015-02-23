@@ -418,9 +418,11 @@ int id search_bar 0x7f080046
 int id search_button 0x7f080048
 int id search_close_btn 0x7f08004d
 int id search_edit_frame 0x7f080049
+int id search_fragment_container 0x7f08006a
 int id search_go_btn 0x7f08004f
 int id search_mag_icon 0x7f08004a
 int id search_plate 0x7f08004b
+int id search_result_fragment_container 0x7f08006b
 int id search_src_text 0x7f08004c
 int id search_voice_btn 0x7f080050
 int id selectionDetails 0x7f08001f
@@ -474,6 +476,7 @@ int layout matches_page 0x7f03001d
 int layout profile_page 0x7f03001e
 int layout search_page 0x7f03001f
 int layout support_simple_spinner_dropdown_item 0x7f030020
+int layout user 0x7f030021
 int raw gtm_analytics 0x7f050000
 int string abc_action_bar_home_description 0x7f0b0000
 int string abc_action_bar_up_description 0x7f0b0001

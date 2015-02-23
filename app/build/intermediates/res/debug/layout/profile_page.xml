@@ -30,7 +30,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent">
 
-                <EditText
+                <TextView
                     android:layout_width="107dp"
                     android:layout_height="wrap_content"
                     android:id="@+id/fullNameText"
@@ -38,7 +38,7 @@
                     android:layout_column="2"
                     android:text="Name" />
 
-                <EditText
+                <TextView
                     android:layout_width="133dp"
                     android:layout_height="wrap_content"
                     android:id="@+id/locationText"
@@ -47,7 +47,7 @@
                     android:text="Location"
                     android:layout_gravity="center_horizontal" />
 
-                <EditText
+                <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/personAge"
@@ -56,7 +56,7 @@
                     android:text="99"
                     android:hint="99" />
 
-                <EditText
+                <TextView
                     android:layout_width="168dp"
                     android:layout_height="wrap_content"
                     android:id="@+id/aboutMeLabel"
